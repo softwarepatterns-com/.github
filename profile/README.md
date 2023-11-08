@@ -1,12 +1,7 @@
-## Hi there 👋
+## SoftwarePatterns Website
 
-<!--
+This is the GitHub organization for the website [softwarepatterns.com](https://softwarepatterns.com).
 
-**Here are some ideas to get you started:**
+I'll be adding example projects here soon, as well as example code for the articles and supporting documentation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To edit this page, change the .github repo.
